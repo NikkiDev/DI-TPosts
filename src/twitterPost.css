@@ -1,0 +1,42 @@
+.news-feed {
+  height: 100vh;
+  margin: 0 auto;
+}
+.twitt-post {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 450px;
+  margin-bottom: 10px;
+}
+.profile-wrapper {
+  display: flex;
+}
+.profile-pic {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 26px;
+}
+
+.user-info {
+  display: flex;
+}
+
+.post-img {
+  width: 400px;
+  height: 400px;
+}
+p {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
